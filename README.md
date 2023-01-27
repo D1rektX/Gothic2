@@ -72,12 +72,12 @@ These changes to the .ini file are recommended to avoid the Dragon self healing 
 locate and open the configuration file under **path/to/gothicII/system/Gothic.INI**
 Find "ZMAXFPS=0" and replace with "ZMAXFPS=60"
 
-In case of Night of the Raven you could avoid this by using the (dragon patch)[https://www.worldofgothic.de/dl/download_703.htm] (untested)
+In case of Night of the Raven you could avoid this by using the [dragon patch](https://www.worldofgothic.de/dl/download_703.htm) (untested)
 
 ## Display Setup and Possible Problems
-Multiple screens can cause Problems. To eliminate these set the Resolution to the same value on all Displays
+Multiple screens can cause Problems. To eliminate these set the Resolution to the same value on all Displays<br>
 If this does not work switch the Windows Display settings to **only show on Second Screen** - this can be done quickly by repeately pressing the **win + p** keys
 
 Nvidia game experience can also cause problems.
 
-144hz Can cause problems.
+144hz can cause problems.
