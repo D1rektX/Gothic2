@@ -5,7 +5,7 @@ For optimal experience this game should be played with a ps4 / ps5 controller on
 
 ## Game Installation
 1. Download [Gothic 2 Gold Edition from Steam](https://store.steampowered.com/app/39510/Gothic_II_Gold_Edition/)
-2. Download and Install [Spine from Clockwork](https://clockwork-origins.com/Gothic/downloads/Spine.exe)
+2. Download and Install [Spine from Clockwork](https://clockwork-origins.com/spine/)
 
 ## Start the Game
 Before starting the game ensure that you went throuh the entire installation guide
