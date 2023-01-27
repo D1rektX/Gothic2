@@ -52,7 +52,7 @@ Select it and wait for the connection to finish.
 
 ## Setup the Controller
 
-Download and install [Joy2Key](https://joytokey.net/download/JoyToKeySetup_en.exe)
+Download and install [Joy2Key](https://joytokey.net/en/download)
 
 Locate the folder where the configuration files are stored: **File > Open config data folder in explorer**
 Import the G2_Ps4_Controller_2022.cfg file into the folder that just opened
