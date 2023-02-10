@@ -78,6 +78,6 @@ In case of Night of the Raven you could avoid this by using the [dragon patch](h
 Multiple screens can cause Problems. To eliminate these set the Resolution to the same value on all Displays<br>
 If this does not work switch the Windows Display settings to **only show on Second Screen** - this can be done quickly by repeately pressing the **win + p** keys
 
-Nvidia game experience can also cause problems.
+Nvidia game experience can also cause problems, check that G-SYNC is disabled and the in game overlay (Shadow Play) are Disabled. 
 
 144hz can cause problems.
